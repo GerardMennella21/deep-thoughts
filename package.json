@@ -23,5 +23,8 @@
   "homepage": "https://github.com/GerardMennella21/deep-thoughts#readme",
   "devDependencies": {
     "concurrently": "^7.3.0"
+  },
+  "engines": {
+    "node": "18.5.0"
   }
 }
